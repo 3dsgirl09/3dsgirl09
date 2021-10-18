@@ -58,7 +58,7 @@ const 3dsgirl09 = {
 ## Now Playing
 
 
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/track/6CXlKq3yqkTvpxfLUpDQVH)
+[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/album/06fPRCrgPKlwrtbdhSojkr)
 
 ----
 <br>
