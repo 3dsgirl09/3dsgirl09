@@ -14,7 +14,7 @@
 ## Connect with me <img src="https://media.tenor.com/images/e6e6adb99d0d2a3258693f49c920d5d9/tenor.gif" width="60">
 <br>
 <a href="https://t.me/cookiesofficial"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://www.reddit.com/r/atypicalghost/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/hanimee"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://raw.githubusercontent.com/3dsgirl09/3dsgirl09/main/discord.txt"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC7FenTE4N_ZX-P_SPSzHc4g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
