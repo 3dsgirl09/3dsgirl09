@@ -173,7 +173,7 @@ No Activity tracked this Week
 <br>
 
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=3dsgirl09&theme=dark)](https://github.com/3dsgirl09/3dsgirl09)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=3dsgirl09&theme=dark)](https://github.com/3dsgirl09/)
 
 <br>
 <br>
